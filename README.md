@@ -49,12 +49,4 @@
   </a>
 </div>
 
-<!-- Streal stats (Dark mode) -->
-<div align="center">
-  <a href="https://github.com/acecavaliers">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=acecavaliers&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
-  </a>
-</div>
+
