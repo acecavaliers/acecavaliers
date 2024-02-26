@@ -16,7 +16,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&theme=transparent) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acecavaliers&layout=donut-vertical)](https://github.com/acecavaliers/github-readme-stats) -->
-[![acecavaliers's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=acecavaliers&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/acecavaliers)
+[![acecavaliers's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=acecavaliers&hide=html,scss,stylus,blade,sql,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/acecavaliers)
 
 <div align="center"> 
   <picture>
