@@ -33,9 +33,10 @@
       height="370"
     />
   </a>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
+
 <!-- Streal stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/acecavaliers">
