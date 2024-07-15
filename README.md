@@ -117,7 +117,7 @@
       height="370"
     />
   </a>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
+  
 </div>
 
 
@@ -133,7 +133,7 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acecavaliers&show_icons=true&locale=en&layout=compact" alt="acecavaliers" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acecavaliers&" alt="acecavaliers" /></p>
 -->
