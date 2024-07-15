@@ -35,18 +35,7 @@
   </a>
 </div>
 
-<!-- Streal stats (Light mode) -->
-<!--<div align="center">
-  <a href="https://github.com/acecavaliers">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=acecavaliers&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
-       alt="My GitHub streak stats"
-       W3nnm4rk@lgorithm09121997@@@
-     />
-  </a>
-</div> -->
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
 <!-- Streal stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/acecavaliers">
@@ -59,6 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acecavaliers&show_icons=true&locale=en&layout=compact" alt="acecavaliers" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acecavaliers&show_icons=true&locale=en" alt="acecavaliers" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acecavaliers&" alt="acecavaliers" /></p>
