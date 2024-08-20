@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **Human Resource Information Syste,**
 
-- 🌱 I’m currently learning **React, Python, Data Analytics**
-
-- 👨‍💻 All of my projects are available at [message me](message me)
-
-- 💬 Ask me about **Vue, Livewire, Laravel**
+- 🌱 I’m currently learning **Vue, Livewire, Laravel, React, Python, Data Analytics**
 
 - 📫 How to reach me **acecavaliers@gmail.com**
 
