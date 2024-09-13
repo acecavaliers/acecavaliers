@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A normal person</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acecavaliers&label=Profile%20views&color=0e75b6&style=flat" alt="acecavaliers" /> </p>
 
